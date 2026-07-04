@@ -1,6 +1,6 @@
 # 🚀 React 24 + TypeScript 6.0 + Vite 8
 
-# 📚 Laboratorio de React + TypeScript
+# 📚 Ejemplos de React + TypeScript
 
 Este repositorio contiene una colección de **9 ejemplos prácticos** desarrollados con **React 19**, **TypeScript 5.9** y **Vite 8**, diseñados para aprender TypeScript desde un enfoque completamente práctico e integrado con React.
 

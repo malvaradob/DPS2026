@@ -1,4 +1,13 @@
-// Ejemplo 1
+/*
+Ejercicio 1
+Crear una aplicación que muestre la información de un estudiante utilizando variables tipadas de TypeScript.
+La aplicación deberá mostrar:
+  -> Nombre 
+  -> Edad 
+  -> Carrera 
+  -> ¿Está activo? 
+  -> Promedio 
+*/
 function Ejemplo01() {
   const nombre: string = "Ana Alas";
   const edad: number = 19;

@@ -1,111 +1,29 @@
 
 import Ejemplo01 from "./components/Ejemplo01";
+import Ejemplo02 from "./components/Ejemplo02";
+import Ejemplo03 from "./components/Ejemplo03";
+import Ejemplo04 from "./components/Ejemplo04";
+import Ejemplo05 from "./components/Ejemplo05";
+import Ejemplo06 from "./components/Ejemplo06";
+import Ejemplo07 from "./components/Ejemplo07";
+import Ejemplo08 from "./components/Ejemplo08";
+import Ejemplo09 from "./components/Ejemplo09";
 
-function Ejemplo02(){
-  const nombre: string = "Tomas Ayala";
 
-  // Ambito global
-  let salario = 800;
-
-  function aumentarSalario(){
-    // Ambito local
-    let aumento = 100;
-
-    return salario + aumento;
-  }
-
+function App() {
   return (
     <>
-      <h1>Empleado</h1>
-      <p>{nombre}</p>
-      <p>Salario: ${salario}</p>
-      <p>Nuevo salario: ${aumentarSalario()}</p>
-
       <Ejemplo01 />
-      <Ejemplo01 />
-      <Ejemplo01 />
-      <Ejemplo01 />
-      <Ejemplo01 />
-      <Ejemplo01 />
-      <Ejemplo01 />
-      <Ejemplo01 />
+      <Ejemplo02 />
+      <Ejemplo03 />
+      <Ejemplo04 />
+      <Ejemplo05 />
+      <Ejemplo06 />
+      <Ejemplo07 />
+      <Ejemplo08 />
+      <Ejemplo09 />
     </>
   );
 }
 
-function Ejemplo03() {
-  const nombre: string = "Tomas Ayala";
-
-  // Ambito global
-  let salario = 800;
-
-  function aumentarSalario() {
-    // Ambito local
-    let aumento = 100;
-
-    return salario + aumento;
-  }
-
-  return (
-    <>
-      <h1>Empleado</h1>
-      <p>{nombre}</p>
-      <p>Salario: ${salario}</p>
-      <p>Nuevo salario: ${aumentarSalario()}</p>
-
-      <Ejemplo01 />
-    </>
-  );
-}
-
-function Ejemplo04() {
-  const nombre: string = "Tomas Ayala";
-
-  // Ambito global
-  let salario = 800;
-
-  function aumentarSalario() {
-    // Ambito local
-    let aumento = 100;
-
-    return salario + aumento;
-  }
-
-  return (
-    <>
-      <h1>Empleado</h1>
-      <p>{nombre}</p>
-      <p>Salario: ${salario}</p>
-      <p>Nuevo salario: ${aumentarSalario()}</p>
-
-      <Ejemplo01 />
-    </>
-  );
-}
-
-function Ejemplo05() {
-  const nombre: string = "Tomas Ayala";
-
-  // Ambito global
-  let salario = 800;
-
-  function aumentarSalario() {
-    // Ambito local
-    let aumento = 100;
-
-    return salario + aumento;
-  }
-
-  return (
-    <>
-      <h1>Empleado</h1>
-      <p>{nombre}</p>
-      <p>Salario: ${salario}</p>
-      <p>Nuevo salario: ${aumentarSalario()}</p>
-
-      <Ejemplo01 />
-    </>
-  );
-}
-
-export default Ejemplo02;
+export default App;

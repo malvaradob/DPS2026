@@ -74,33 +74,19 @@ src/
 │
 
 ├── components/
-
 │      Ejemplo01.tsx
-
 │      Ejemplo02.tsx
-
 │      Ejemplo03.tsx
-
 │      Ejemplo04.tsx
-
 │      Ejemplo05.tsx
-
 │      Ejemplo06.tsx
-
 │      Ejemplo07.tsx
-
 │      Ejemplo08.tsx
-
 │      Ejemplo09.tsx
-
 │
-
 ├── services/
-
 ├── types/
-
 ├── App.tsx
-
 └── main.tsx
 ```
 

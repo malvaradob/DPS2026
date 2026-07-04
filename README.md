@@ -70,9 +70,7 @@ Cada ejemplo introduce nuevos conceptos del lenguaje y muestra cómo utilizarlos
 
 ```text
 src/
-
 │
-
 ├── components/
 │      Ejemplo01.tsx
 │      Ejemplo02.tsx

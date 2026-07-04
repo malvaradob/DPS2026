@@ -12,7 +12,7 @@ Cada ejemplo introduce nuevos conceptos del lenguaje y muestra cómo utilizarlos
 
 * [Características](#-características)
 * [Tecnologías](#-tecnologías-utilizadas)
-* [Laboratorios](#-laboratorios)
+* [Ejemplos](#-ejemplos)
 * [Estructura del proyecto](#-estructura-del-proyecto)
 * [Instalación](#-instalación)
 * [Creación del proyecto](#-crear-el-proyecto-desde-cero)
